@@ -5,4 +5,8 @@ class RoomsController < ApplicationController
     message.content = 1
     message.save
   end
+  
+  def counter
+    
+  end
 end
